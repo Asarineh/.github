@@ -1,8 +1,12 @@
 # اثرینه | Asarine
 
-**فارسی:** اثرینه یک پلتفرم دیجیتال برای کشف، ارائه و خرید محصولات و آثار منتخب است.
+**فارسی:** اثرینه برند و پلتفرم محصولات چرمی شخصی‌سازی‌شده است — با نام، تصویر و طرحی که ماندگار می‌شود.
 
-**English:** Asarine is a digital platform for discovering, presenting, and purchasing selected products and creative works.
+**شعار:** «اثر تو، ماندگار می‌شود.»
+
+**English:** Asarine is a premium personalized leather goods brand and e-commerce platform. Custom leather accessories and meaningful gifts, made to last.
+
+**Slogan (EN interpretation):** “Your mark, made to last.”
 
 Website: [asarine.ir](https://asarine.ir)
 
@@ -17,4 +21,4 @@ Website: [asarine.ir](https://asarine.ir)
 
 ## Status
 
-Planning and early development. Product scope and launch features remain subject to confirmation.
+Planning and early development. Product domain: personalized leather goods. Application scaffolding is next after planning approval.
